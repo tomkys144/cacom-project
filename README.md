@@ -1,5 +1,7 @@
 # CACoM 2026 - G6 - Quantifying the Impact of Concurrent Operating Room Turnovers on Hybrid Operating Room Efficiency
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/tomkys144/cacom-project)
+
 ## Repository Structure & Notebooks
 * `analysis_v2.ipynb` — **Main Notebook (Corrected Methodology)**. Run this to reproduce all key figures and results.
 * `turnover_analysis.ipynb` — **v1 Baseline (Flawed Methodology)**. Preserved only for historical comparison as noted in the report.
